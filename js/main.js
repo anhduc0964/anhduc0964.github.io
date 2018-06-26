@@ -46,7 +46,7 @@ $(document).ready(function () {
 
     // Typed JS TRIGGER
   	$(".header .middle-l h3 span").typed({
-  		strings: ["Web Designer", "UI/UX  Developer"],
+  		strings: ["Mechanical Engineering", "Mechanical Desinger"],
   		loop: true,
   		startDelay: 1e3,
   		backDelay: 3e3
